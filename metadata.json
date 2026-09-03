@@ -1,0 +1,6 @@
+{
+  "name": "Host Panel",
+  "description": "Production-ready Host Panel for managing OMBs and Tournaments with double-verification, active assignment rules, and EC2 backend integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
